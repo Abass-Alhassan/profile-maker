@@ -6,9 +6,9 @@ import {useState} from 'react'
 function App() {
   const [allProfiles, setAllProfiles]=useState([
     {
-      firstname:"Ama",
-      lastname:"Mensah",
-      email:"mensah@gmail.com",
+      firstname:"Alhassan",
+      lastname:"Abass",
+      email:"icewrldspacely@gmail.com",
       phone:"0596593012"
     }
   ])

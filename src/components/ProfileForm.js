@@ -1,4 +1,3 @@
-import React from 'react'
 import react, {useState} from 'react'
 
 function ProfileForm({submit}) {
